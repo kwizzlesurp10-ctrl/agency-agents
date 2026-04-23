@@ -16,6 +16,7 @@ AGENT_DIRS=(
   game-development
   marketing
   paid-media
+  sales
   product
   project-management
   testing
